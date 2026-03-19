@@ -22,7 +22,7 @@ Based on [mcp-mat](https://github.com/codelipenghui/mcp-mat) by codelipenghui.
 ## Installation
 
 ```bash
-npx skills add https://github.com/anthropics/skills --skill eclipse-mat
+npx skills add https://github.com/Shawyeok/skills --skill eclipse-mat
 ```
 
 ## License
